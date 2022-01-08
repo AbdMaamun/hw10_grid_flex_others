@@ -1,0 +1,22 @@
+.box{
+	min-height: 100px;
+	background-color: purple;
+}
+.box p{
+	text-align: center;
+	color: white;
+	font-size: 20px;
+}
+.box1{
+	min-height: 100px;
+	background-color: red;
+}
+.box1 p{
+	text-align: center;
+	color: white;
+	font-size: 20px;
+}
+.mh{
+	min-height: 350px;
+	background-color: cyan;
+}
